@@ -32,4 +32,4 @@ The source code;
 A README file. The minimum required content of the file should contains the instructions to compile and execute your code;
 The test cases that you use and the results that you get from the test cases.
 
-My output and ERD are both in my Gradebook Report. To run it, go onto this website : https://paiza.io/en/languages/mysql. 
+My output and ERD are both in my Gradebook Report. To run it, go onto this website : https://paiza.io/en/languages/mysql. My testcases are in the same file as my code.
